@@ -1,3 +1,8 @@
+# Run the code from a live server using this link
+```
+https://hungry-yonath-7d8b06.netlify.com/
+```
+
 # app_router_vue
 
 ## Project setup
